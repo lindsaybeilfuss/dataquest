@@ -7,7 +7,7 @@ Documenting my journey here as I pivot my career from Finance/Business Analyst t
   * create modules, classes, functions
   * errors, list comprehensions, regular expressions
   
-  Project (Jupyter Notebook) - [Exploring Gun Deaths] (dataquest/Exploring Gun Deaths.ipynb)
+  Project (Jupyter Notebook) - [Exploring Gun Deaths] (https://github.com/lindsaybeilfuss/dataquest/blob/master/Exploring%20Gun%20Deaths.ipynb)
 
 ### 2. Data Analysis & Visualization
   * Pandas, NumPy libraries
